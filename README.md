@@ -1,30 +1,27 @@
-💻 Mohammad Suleiman  
-**Electrical Engineering Student | Aspiring Innovator | Tech Enthusiast**
+## Mohammad Suleiman
+Electrical & Computer Engineer | VLSI Physical Design & Power Electronics
 
-Hello! I’m Mohammad Suleiman, a 24-year-old electrical engineering student at Technion, Israel. My interests lie in pushing the boundaries of technology, designing efficient circuits, and solving real-world challenges with innovative solutions.
+I am a recent Electrical & Computer Engineering graduate from the Technion. I specialize in the full design cycle of hardware, from circuit-level architecture to GDSII layout. My focus is on high-performance ASIC implementation, power integrity, and digital physical design.
 
-🌟 **What I’m Working On:**  
-- Currently developing a charge pump voltage doubler project, incorporating advanced design techniques such as level shifters, non-overlapping circuits, and floating n-well structures.  
-- Proficient in simulation, layout design, and optimization for high-efficiency performance.
+🚀 Technical Expertise
+ASIC Implementation: Synthesis, Floorplanning, CTS, and Routing (OpenLane/OpenROAD).
 
-⚡ **Technical Skills:**  
-- Circuit Design & Simulation (SPICE, Cadence)  
-- Digital Logic & Microelectronics  
-- Programming: Python, MATLAB  
-- Fundamentals of Power Electronics and Semiconductor Devices  
+VLSI & Analog Design: Full custom layout in Cadence Virtuoso, DRC/LVS verification, and transistor-level optimization.
 
-🎯 **Goals:**  
-- To apply my knowledge in practical and impactful projects.  
-- To expand my expertise in analog/digital circuit design and contribute to open-source engineering tools.
+Power Electronics: DC-DC converter design, boost converters, and charge-pump architectures.
 
-🌍 **A Bit About Me:**  
-Based in Mashhad, I thrive on continuous learning and collaboration. I enjoy tackling challenging problems, both in academics and in personal growth.
+Scripting & Automation: Python (Data Analysis/Automation), TCL (EDA tool scripting), C, and Verilog/SystemVerilog.
 
-📫 **Let’s Connect:**  
-- **Email:** mohammadsuleiman67@gmail.com  
-- **Location:** Ras elmontar, Mashhad, Israel  
+🛠 Portfolio & Current Focus
+I am currently bridging my analog design background with modern digital implementation flows. My current work centers on:
 
-<!---
-mosuleima/mosuleima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Digital Implementation Flow: Pushing RTL through synthesis, placement, and routing to achieve timing closure.
+
+Hardware Formal Verification: Leveraging formal methods (JasperGold) to ensure design correctness.
+
+Scripted Analysis: Automating timing analysis reports to identify and fix critical paths.
+
+⚡ Let's Connect
+I am actively seeking opportunities in Physical Design Engineering where I can apply my experience in the full ASIC lifecycle to help build the next generation of processors and cloud hardware.
+
+📫 Email: mohammadsuleiman67@gmail.com | Location: Israel
